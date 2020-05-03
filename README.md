@@ -1,5 +1,5 @@
 ## 中文心理问答数据集  
-Chinese-Psychological-QA-DataSet
+Chinese Psychological QA DataSet
 
 
 
