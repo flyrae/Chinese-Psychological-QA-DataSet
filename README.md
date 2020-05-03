@@ -4,7 +4,7 @@ Chinese Psychological QA DataSet
 
 
 ### 20200503
-20051 条社区问答对
+29449 条社区问答对
 示例数据
 ```  json
 {
@@ -39,17 +39,17 @@ Chinese Psychological QA DataSet
 |key| 解释|
 |----|----|
 |ques_id| 问题id|
-|ques_info| 问题信息|
+|**ques_info**| 问题信息|
 |title| 问题标题|
 |content|问题详细内容|
 |answer_count| 答案数量|
 |reward_num|悬赏金额|
 |ques_label|问题标签|
-|static_info|统计信息|
+|**static_info**|统计信息|
 |hug|给提者安慰的数量|
 |collect|收藏问题数|
 |reply|回答数 同answer_count|
-|answer_info|答案信息|
+|**answer_info**|答案信息|
 |recommend_flag|是否推荐此答案|
 |content|答案内容|
 |zan|收到的赞同数|
