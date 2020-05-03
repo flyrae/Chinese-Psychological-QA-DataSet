@@ -4,7 +4,7 @@ Chinese Psychological QA DataSet
 
 
 ### 20200503
-10443 条社区问答对
+20051 条社区问答对
 示例数据
 ```  json
 {
